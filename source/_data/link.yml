@@ -1,0 +1,126 @@
+class:
+  class_name: 前端API文档
+  link_list:
+    1:
+      name: Font Awesome 5
+      link: https://fa5.dashgame.com/#/
+      avatar: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3327199806,2702205645&fm=26&gp=0.jpg
+      descr: 一套绝佳的图标库
+    2:
+      name: JQuery API
+      link: http://jquery.cuishifeng.cn/
+      avatar: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4055771136,79106349&fm=26&gp=0.jpg
+      descr: API 
+    3:
+      name: Vue.js
+      link: https://cn.vuejs.org/v2/guide/
+      avatar: https://cn.vuejs.org/images/logo.png
+      descr: 渐进式框架
+    4: 
+      name: Vux
+      link: https://vuxjs.gitbooks.io/vux/content/install/vue.html
+      avatar:
+      descr: 基于Vue和WeUI的组件库,可不依赖Zepto保持小体积
+    5:
+      name: BootstrapValidator
+      link: https://www.cnblogs.com/landeanfen/p/5035608.html
+      avatar: http://wenda.bootcss.com/static/css/default/logo/bootstrap-punchout.png
+      descr: JS组件--form表单验证神器
+    6:
+      name: Vant
+      link: https://youzan.github.io/vant/?source=vuejsorg#/zh-CN/home
+      avatar: https://img.yzcdn.cn/vant/logo.png
+      descr: 轻量、可靠的移动端 Vue 组件库
+    7:
+      name: ElementUI
+      link: https://element.eleme.cn/#/zh-CN/component/installation
+      avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600243889296&di=558bb27aa9efc35b732410b6aec66afc&imgtype=0&src=http%3A%2F%2Fpicb.zhimg.com%2F50%2Fv2-04d4e27c8abf0bfbee3c813810d7d5b2_720w.jpg%3Fsource%3D54b3c3a5
+      descr: 一致、反馈、效率、可控
+    8:
+      name: NodeJS
+      link: https://nodejs.org/en/
+      avatar: https://nodejs.org/en/static/images/logo.svg
+      descr: 基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
+    9:
+      name: web笔记
+      link: https://tts.quxingdong.com/Web-Note.Html
+      avatar: https://tts.quxingdong.com/favicon.ico
+      descr: 大佬笔记
+    10:
+      name: C3颜色表
+      link: https://www.runoob.com/cssref/css-colornames.html
+      avatar:
+      descr: 颜色名称
+class2:
+   class_name: 第三方插件博客管理
+   link_list:
+    1:
+      name: CmdMarkdown
+      link: https://www.zybuluo.com/mdeditor#1686862
+      avatar: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=739720552,2465645191&fm=26&gp=0.jpg
+      descr: 一种markdown编辑器
+    2:
+       name: 随意云
+       link: http://www.suiyiyun.cn/
+       avatar: http://www.suiyiyun.cn/Content/CSS/SuiYiYun/images/s-logo.png
+       descr: 在用的云存储
+    3:
+       name: 豆瓣
+       link: douban.com/people/214753641/
+       avatar: https://img3.doubanio.com/favicon.ico
+       descr: 新出的电影
+    4: 
+      name: 国内PHP开源建站
+      link: https://jingyan.baidu.com/article/aa6a2c148f54d50d4c19c480.html
+      avatar: 
+      descr: 种类
+    5:
+      name: LeanCloud
+      link: https://leancloud.cn/dashboard/login.html#/signin
+      avatar: 
+      descr: 第三方评论插件
+class3:
+  class_name: 服务器
+  link_list:
+    1:
+      name: apache配置多个端口
+      link: https://blog.csdn.net/shineniefei/article/details/76691481
+      avatar: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2453948963,2308948300&fm=26&gp=0.jpg
+      descr: httpd
+    2:
+      name: CenOS7安装Mysql
+      link: https://www.cnblogs.com/calm84/p/12666882.html
+      avatar: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1709216491,2536617744&fm=26&gp=0.jpg
+      descr: httpd    
+class4:
+  class_name: 其他
+  link_list:
+    1:
+      name: 吉他谱
+      link: https://www.jitatang.com/pu
+      avatar: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=219156375,2818119844&fm=26&gp=0.jpg
+      descr: 自我感觉这里谱子挺全的
+    2:
+      name: 指弹吉他谱
+      link: https://www.qinyipu.com/special/zhitan/
+      avatar: https://img.qinyipu.com/d/file/money/gangqinpu/908c85a8fe7cca358dbc811e2c65f5e5.png?x-oss-process=image/resize,w_1200
+      descr: 指弹谱
+    3:
+      name: 易唱谱
+      link: http://www.echangwang.com/pic/
+      avatar: http://www.echangwang.com/webpics/logo-channel.png
+      descr: 吉他谱
+
+class5:
+  class_name: 国内爱搞机的小伙伴
+  link_list:
+    1:
+      name: deepinos双系统安装教程
+      link: https://blog.csdn.net/qq_35379989/article/details/83515106
+      avatar: https://www.deepin.org/wp-content/uploads/2017/04/logo_2017.png
+      descr: 基于Linux国产操作系统详细步骤以及安装、卸载教程
+    2:
+      name: 黑苹果社区
+      link: https://osx.cx/
+      avatar: https://osx.cx/wp-content/uploads/2018/02/osx.png
+      descr: 黑苹果搞机
